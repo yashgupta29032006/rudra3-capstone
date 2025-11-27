@@ -316,6 +316,5 @@ The project aligns fully with the Kaggle × Google Agents Intensive philosophy -
 ## 11. Attachments
 
 - GitHub Repository (Code)  
-- README.md  
-- Video 
+- README.md 
 
