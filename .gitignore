@@ -1,0 +1,40 @@
+# Rudra 3.0 — Multi-Agent Assistant
+# Git ignore rules
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+rudra3.log
+
+# Memory & knowledge storage
+memory.json
+knowledge.json
+
+# Recordings
+recordings/
+*.wav
+*.mp3
+
+# Screenshots & captured images
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+*.tmp
+tmp/
+*.swp
+
+# OS automation artifacts
+*.session
