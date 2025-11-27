@@ -1,4 +1,4 @@
-# Rudra 3.0 — Multi-Agent Personal OS Assistant  
+# Rudra 3.0 - Multi-Agent Personal OS Assistant  
 Track: Freestyle  
 Author: Yash Gupta 
 
@@ -6,7 +6,7 @@ Author: Yash Gupta
 
 ## 1. Problem Statement
 
-Modern computers have evolved into powerful tools capable of automation, intelligent analysis, and personalized assistance. However, most users still interact with their devices manually — clicking, searching, checking notifications, switching apps, reading information on the screen, executing repetitive actions, and navigating unfamiliar interfaces.
+Modern computers have evolved into powerful tools capable of automation, intelligent analysis, and personalized assistance. However, most users still interact with their devices manually - clicking, searching, checking notifications, switching apps, reading information on the screen, executing repetitive actions, and navigating unfamiliar interfaces.
 
 This creates friction, slows productivity, and limits accessibility.
 
@@ -49,7 +49,7 @@ Unlike traditional assistants, Rudra 3.0 is integrated deeply into the operating
 - Input simulation  
 - Logging and observability  
 
-This makes Rudra capable of acting as a **Personal Operating System Agent** — a higher level of interaction that bridges user intent with actionable automation.
+This makes Rudra capable of acting as a **Personal Operating System Agent** - a higher level of interaction that bridges user intent with actionable automation.
 
 ---
 
@@ -126,7 +126,7 @@ This helps debugging, evaluation, and transparency.
 
 Rudra follows a modular ADK-inspired architecture.
 
-### 5.1. RouterAgent — The Brain  
+### 5.1. RouterAgent - The Brain  
 This agent reads the user’s query and decides between:
 
 - “ANSWER: …” → a natural language response  
@@ -134,7 +134,7 @@ This agent reads the user’s query and decides between:
 
 This aligns directly with the ADK pattern of "routing agent → sub-agents → tools".
 
-### 5.2. AutomationAgent — The Executor  
+### 5.2. AutomationAgent - The Executor  
 Executes structured actions such as:
 
 - click(x, y)  
@@ -145,7 +145,7 @@ Executes structured actions such as:
 
 Each action is atomic and safe.
 
-### 5.3. VisionAgent — Screen Perception  
+### 5.3. VisionAgent - Screen Perception  
 - Takes screenshots  
 - Sends them to a Gemini-compatible stub  
 - Returns structured JSON interpretations  
@@ -157,7 +157,7 @@ Examples:
 
 The architecture mirrors ADK’s approach to multimodal input.
 
-### 5.4. MemoryAgent — Knowledge & History  
+### 5.4. MemoryAgent - Knowledge & History  
 Stores:
 
 - Chat history (last 50 messages)  
@@ -165,7 +165,7 @@ Stores:
 
 Memory compaction ensures scalable, long-term operation.
 
-### 5.5. MonitorAgent — Long-Running Process  
+### 5.5. MonitorAgent - Long-Running Process  
 Runs indefinitely in the background and logs:
 
 - Active application name  
@@ -189,7 +189,7 @@ Rudra exposes OS-level tools designed in the style of MCP tool definitions:
 - **Camera Tool**  
 - **Speech Tool**
 
-These are isolated, testable functions — important for judging.
+These are isolated, testable functions - important for judging.
 
 ---
 
@@ -255,7 +255,7 @@ Matches the course teachings:
 - Observability  
 - Deployment-ready architecture  
 
-Judges evaluate heavily on architectural clarity — Rudra is built around it.
+Judges evaluate heavily on architectural clarity - Rudra is built around it.
 
 ---
 
@@ -309,7 +309,7 @@ Rudra 3.0 demonstrates how a multi-agent system can integrate deeply with an ope
 
 It transforms the computer into an interactive, perceptive, and adaptive personal assistant.
 
-The project aligns fully with the Kaggle × Google Agents Intensive philosophy — practical agents that solve real problems through structured, modular, intelligent design.
+The project aligns fully with the Kaggle × Google Agents Intensive philosophy - practical agents that solve real problems through structured, modular, intelligent design.
 
 ---
 
