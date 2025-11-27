@@ -57,7 +57,7 @@ This makes Rudra capable of acting as a **Personal Operating System Agent** - a 
 
 ### 1. Productivity  
 Users waste minutes or hours each day performing routine digital tasks:  
-opening apps, switching windows, capturing screenshots, locating UI elements, executing repeated workflows.
+opening apps, switching windows, capturing screenshots, locating UI elements and executing repeated workflows.
 
 Automation of these micro-tasks adds up to significant time savings.
 
@@ -225,9 +225,6 @@ Metrics include:
 - vision_calls  
 - errors  
 
-### 7.5. CLI Demo  
-Provides a simple, reproducible interface for testers and judges.
-
 ---
 
 ## 8. Project Value
@@ -254,8 +251,6 @@ Matches the course teachings:
 - Vision  
 - Observability  
 - Deployment-ready architecture  
-
-Judges evaluate heavily on architectural clarity - Rudra is built around it.
 
 ---
 
