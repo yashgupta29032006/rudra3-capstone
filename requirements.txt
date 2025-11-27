@@ -1,0 +1,8 @@
+# Rudra 3.0 - Multi-Agent Personal Assistant
+
+pyautogui
+pyttsx3
+pillow
+sounddevice
+soundfile
+numpy
