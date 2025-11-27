@@ -15,7 +15,7 @@
 "By Yash Gupta "
 
 **Voice-over:**  
-"Hi, I'm Yash Gupta, and this is Rudra 3.0 - a multi-agent personal operating system assistant built for the Kaggle × Google Agents Intensive Capstone."
+"Hi, I'm Yash Gupta, and this is Rudra 3.0 - a multi-agent personal operating system assistant built for the Kaggle Agents Intensive Capstone."
 
 ---
 
