@@ -78,13 +78,14 @@ These tools can be replaced with ADK MCP tools if deployed in cloud-sandboxed en
 
 ```text
 rudra3/
-├── rudra3.py            # Main multi-agent engine (entry point)
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-├── kaggle_writeup.md   # 1500-word capstone submission
-├── video_script.md     # 3-minute YouTube script + storyboard
-├── demo_transcripts/   # Sample transcripts & screenshots
-└── .gitignore          # Git ignore rules
+├── rudra3.py
+├── requirements.txt
+├── README.md
+├── kaggle_writeup.md
+├── video_script.md
+├── .gitignore
+└── demo_transcripts/
+      └── README.md
 ```
 ---
 
