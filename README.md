@@ -24,6 +24,14 @@ This version of Rudra is optimized specifically for the **Capstone Evaluation**,
 
 ---
 
+## Architecture Overview
+
+Below is the high-level multi-agent system architecture of Rudra 3.0:
+
+![Rudra Architecture]()
+
+---
+
 ## Multi-Agent Architecture
 
 Rudra 3.0 uses **five core agents**, each with a well-defined responsibility:
@@ -57,7 +65,7 @@ A long-running loop agent that logs the frontmost app every 15 seconds.
 This demonstrates background processes, observability, and agent state.
 
 ### (Bonus) 6. **IdentityAgent**  
-Captures face images (if enabled), showing extensibility for biometrics or device-security agents.
+Captures face images (if enabled), enabling extensibility for biometrics or device security agents.
 
 ---
 
