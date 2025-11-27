@@ -64,7 +64,7 @@ Stores:
 A long-running loop agent that logs the frontmost app every 15 seconds.  
 This demonstrates background processes, observability, and agent state.
 
-### (Bonus) 6. **IdentityAgent**  
+### 6. **IdentityAgent** (Bonus) 
 Captures face images (if enabled), enabling extensibility for biometrics or device security agents.
 
 ---
@@ -125,35 +125,38 @@ All secrets are expected as environment variables.
 ## Running Rudra 3.0 (Local CLI Demo)
 
 ### **1. Install Dependencies**
-
+```text
 pip install -r requirements.txt
-
+```
 ### **2. (Optional) Set environment variables**
-
+```text
 export GEMINI_API_KEY="your_api_key_here"
-
 export ENABLE_FACE_ID="false"
-
+```
 ### **3. Run Rudra**
-
+```text
 python3 rudra3.py
-
+```
 You will see:
-
+```text
 Rudra 3.0 CLI (type 'exit' to quit)
-
-Try commands like:
-
+```
+### **Try commands like:**
+```text
 open chrome
-
+```
+```text
 take screenshot
-
+```
+```text
 What is on my screen?
-
+```
+```text
 click right
-
+```
+```text
 vision read the window
-
+```
 ---
 
 ## Why This Project Stands Out
@@ -184,7 +187,7 @@ Includes more than 3 required concepts:
 
 ---
 
-## Deployment (Optional)
+## Deployment
 
 Rudra 3.0 is compatible with:
 
@@ -193,12 +196,6 @@ Rudra 3.0 is compatible with:
 - Local Mac automation  
 
 A simple ADK gateway can expose these agents via REST.
-
----
-
-## Demo Screenshots
-
-Place optional screenshots in `/demo_transcripts`.
 
 ---
 
