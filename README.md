@@ -165,7 +165,7 @@ This capstone is designed to score highly on all rubric categories:
 - Clean architecture  
 - Real-world personal OS agent  
 
-### 🔧 Category 2 — Implementation (70/70)
+### Category 2 — Implementation (70/70)
 Includes more than 3 required concepts:
 
 - Multi-Agent System  
