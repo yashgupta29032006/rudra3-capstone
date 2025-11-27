@@ -28,7 +28,7 @@ This version of Rudra is optimized specifically for the **Capstone Evaluation**,
 
 Below is the high-level multi-agent system architecture of Rudra 3.0:
 
-![Rudra Architecture](https://github.com/yashgupta29032006/rudra3-capstone/blob/main/architecture/rudra_architecture.png)
+![Rudra Architecture](https://github.com/yashgupta29032006/rudra3-capstone/blob/main/architecture/rudra_flow.png)
 
 ---
 
